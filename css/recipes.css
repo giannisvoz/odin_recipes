@@ -16,3 +16,8 @@ a {
 a:visited {
   color: darkred;
 }
+
+p {
+  width: 920px;
+  margin: 20px auto;
+}
