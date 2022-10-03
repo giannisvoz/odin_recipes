@@ -1,3 +1,7 @@
+h1 {
+  margin-bottom: 20px;
+}
+
 ol li {
   text-align: left;
   width: 50%;
@@ -19,5 +23,5 @@ a:visited {
 
 p {
   width: 920px;
-  margin: 20px auto;
+  margin: 0 auto 24px auto;
 }
