@@ -1,0 +1,14 @@
+ol li {
+  text-align: left;
+  width: 50%;
+  margin: 0 auto;
+}
+
+a {
+  color:darkred;
+}
+
+img {
+  max-width: 430px;
+  max-height: 430px;
+}
