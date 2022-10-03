@@ -4,11 +4,15 @@ ol li {
   margin: 0 auto;
 }
 
+img {
+  max-width: 430px;
+  max-height: 430px;
+}
+
 a {
   color:darkred;
 }
 
-img {
-  max-width: 430px;
-  max-height: 430px;
+a:visited {
+  color: darkred;
 }
